@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "nombre" : "Televisor PHILCO 32'",
+        "modelo" : "ARGV-32",
+        "precio" : 50000,
+        "oferta" : false,
+        "marca" : "PHILCO",
+        "categoria" : "Audio y video"
+    },
+    {
+        "id" : 2,
+        "nombre" : "Televisor PHILIPS 32'",
+        "modelo" : "PWFE-32",
+        "precio" : 55000,
+        "oferta" : false,
+        "marca" : "PHILIPS",
+        "categoria" : "Audio y video"
+    },
+    {
+        "id" : 3,
+        "nombre" : "Televisor SONY 32'",
+        "modelo" : "BRAVE",
+        "precio" : 52000,
+        "oferta" : true,
+        "marca" : "SONY",
+        "categoria" : "Audio y video"
+    }
+]

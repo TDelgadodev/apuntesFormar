@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "nombre": "Televisor PHILCO 32'",
+      "precio": 50000,
+      "oferta": false
+   },
+   {
+      "id": 2,
+      "nombre": "Televisor PHILIPS 32'",
+      "precio": 45000,
+      "oferta": true
+   },
+   {
+      "id": 3,
+      "nombre": "Televisor SONY 32'",
+      "precio": 52000,
+      "oferta": true
+   },
+   {
+      "id": 4,
+      "nombre": "Televisor PHILCO 55'",
+      "precio": 55000,
+      "oferta": true
+   },
+   {
+      "id": 5,
+      "nombre": "televisor daewo 42'",
+      "precio": 55000,
+      "oferta": true
+   }
+]

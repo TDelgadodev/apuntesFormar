@@ -1,0 +1,7 @@
+{
+    "name": "Frank",
+    "surName": "Kafka",
+    "date": "1883-07-3",
+    "hobbies": false,
+    "friends": ["pepe","epep","manolo"]
+}

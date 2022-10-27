@@ -1,0 +1,14 @@
+[
+    {
+        "titulo" : "Evitar callback hell",
+        "estado" : "Terminada"
+    },
+    {
+        "titulo" : "Fix error 404",
+        "estado" : "en progreso"
+    },
+    {
+        "titulo" : "Repasar React",
+        "estado" : "pendiente"
+    }
+]

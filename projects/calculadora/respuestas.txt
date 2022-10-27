@@ -1,0 +1,5 @@
+a- Lo que veo de tener que programar todo en un solo archivo hubiesido incomodo a la hora de por ejemplo gestionar algun error de logica. Quiero decir, si tengo un error en la suma o resta, voy a los respectivos archivos y los soluciono desde alli, mientras que si hubiesemos hecho todo en un solo archivo, no hubiese sido tan prolijo, comodo y "facil" de entender para gestionarlo mejor.
+
+b- Porque eso permite que todo este mucho mas organizado, y mas comodo, al menos para mi.
+
+c- Me veo venir que si, al final tambien es una buena practica que se lleva a cabo en el mundo laboral, por lo que hacerlo siempre que podamos esta buenisimo.

@@ -1,0 +1,23 @@
+[
+    {
+        "objeto": "television",
+        "pulgadas": 32,
+        "marca": "SONY",
+        "precio": 32000,
+        "oferta": false
+    },
+    {
+        "objeto": "telefono",
+        "pulgadas": 32,
+        "marca": "SONY XPERIA",
+        "precio": 52000,
+        "oferta": true
+    },
+    {
+        "objeto": "monitor",
+        "pulgadas": 22,
+        "marca": "SAMSUNG",
+        "precio": 42000,
+        "oferta": false
+    }
+]
