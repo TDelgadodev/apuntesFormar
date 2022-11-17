@@ -27,4 +27,4 @@ switch (comando) {
   default:
     console.log("Comando incorrecto");
     break;
-}
+} 

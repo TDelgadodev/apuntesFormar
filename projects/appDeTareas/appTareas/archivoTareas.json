@@ -1,13 +1,15 @@
 [
-    {
+    {   "prioridad": 1,
         "titulo" : "Evitar callback hell",
         "estado" : "Terminada"
     },
     {
+        "prioridad": 2,
         "titulo" : "Fix error 404",
         "estado" : "en progreso"
     },
     {
+        "prioridad": 3,
         "titulo" : "Repasar React",
         "estado" : "pendiente"
     }

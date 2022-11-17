@@ -1,0 +1,32 @@
+[
+   {
+      "priority": 1,
+      "name": "Evitar callback hell",
+      "status": "Terminada"
+   },
+   {
+      "priority": 2,
+      "name": "Fix error 404",
+      "status": "En progreso"
+   },
+   {
+      "priority": 3,
+      "name": "Repasar React",
+      "status": "Pendiente"
+   },
+   {
+      "priority": 4,
+      "name": "error 'promises' is not exported by __vite-browser-external",
+      "status": "Pendiente"
+   },
+   {
+      "priority": 5,
+      "name": "solve error callback hell",
+      "status": "Pendiente"
+   },
+   {
+      "priority": 6,
+      "name": "solve fix error 404",
+      "status": "Pendiente"
+   }
+]

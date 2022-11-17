@@ -4,7 +4,7 @@ const moduloProductos = require("./modules/productos");
 const comando = process.argv[2];
 
 switch (comando) {
-    case "listar": //if
+    case "listar":
         const productosArray = moduloProductos.leerJSON();
 
         for (let i = 0; i < productosArray.length; i++) {
@@ -15,7 +15,7 @@ switch (comando) {
 
         break;
 
-    case "detalle": //else if
+    case "detalle":
         console.log(moduloProductos.detalle(+process.argv[3]));
         break;
 
@@ -26,11 +26,11 @@ switch (comando) {
         console.log(moduloProductos.agregar(nombre,precio,oferta));
         break;
 
-    case undefined: //else if
+    case undefined:
         console.log("Debes ingresar un comando!!!");
         break;
 
-    default: //else
+    default:
         console.log("Comando incorrecto");
         break;
 }

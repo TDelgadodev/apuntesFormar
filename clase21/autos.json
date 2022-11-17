@@ -1,0 +1,25 @@
+[
+    {
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "color": "azul",
+        "año": 2019,
+        "km": 200,
+        "precio": 150000,
+        "cuotas": 12, 
+        "patente": "APL123",
+        "vendido": false
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "Fiesta",
+        "color": "azul",
+        "año": 2019,
+        "km": 200,
+        "precio": 100000,
+        "cuotas": 14, 
+        "patente": "JJK116",
+        "vendido": false
+    }
+]
+

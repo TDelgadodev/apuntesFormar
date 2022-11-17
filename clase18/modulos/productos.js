@@ -6,8 +6,6 @@ const moduloProductos = {
     archivo : 'productos.json',
     leerJSON : function(){
         const productosJSON = fs.readFileSync(path.join(__dirname,'..','data',this.archivo),'utf-8');
-        //console.log(path.join('data','productos.json'))
-        //console.log(__dirname)
         const productosParseado = JSON.parse(productosJSON);
 
         return productosParseado
@@ -59,8 +57,8 @@ const moduloProductos = {
 
         let errores = [];
 
-        !nombre ? errores.push('Debes escribir el nombre del producto!'):
-        !precio ? errores.push('Debes escribir el precio del producto!'):
+        !nombre ? errores.push('Debes escribir el nombre del producto!'): null
+        !precio ? errores.push('Debes escribir el precio del producto!'): null
         !oferta ? errores.push('Debes escribir la oferta del producto!') : null;
 
 

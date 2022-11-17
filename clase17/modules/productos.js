@@ -8,8 +8,6 @@ const moduloProductos = {
       path.join(__dirname, "..", "data", this.archivo),
       "utf-8"
     );
-    //console.log(path.join('data','productos.json'))
-    //console.log(__dirname)
     const productosParseado = JSON.parse(productosJSON);
 
     return productosParseado;
@@ -28,7 +26,7 @@ const moduloProductos = {
     return "No hay productos con el ID: " + id;
   },
   agregar: function (nombre, precio, oferta) {
-
+    
     let errores = [];
 
     !nombre ? errores.push("Debes ingresar el nombre del producto!"): null
@@ -53,8 +51,7 @@ const moduloProductos = {
     productos.push(nuevoProducto);
 
     return productos;
-    //return "Producto agregado con éxito!"
-  },
+    },
 };
 
 module.exports = moduloProductos;

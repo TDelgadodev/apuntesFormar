@@ -2,8 +2,8 @@
    {
       "id": 1,
       "nombre": "Televisor PHILCO 32'",
-      "precio": 50000,
-      "oferta": false
+      "precio": 240000,
+      "oferta": true
    },
    {
       "id": 2,
@@ -27,6 +27,12 @@
       "id": 5,
       "nombre": "televisor daewo 42'",
       "precio": 55000,
+      "oferta": true
+   },
+   {
+      "id": 6,
+      "nombre": "televisor tu vieja",
+      "precio": 43999,
       "oferta": true
    }
 ]
